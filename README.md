@@ -3,5 +3,5 @@ This is the GitHub repository for the technical product documentation for Power 
 # Course Material
 This section will breakdown the fundamentals needed to begin your journey as a PowerBI Developer. 
 #### Quick Start - Getting Familiar with Power BI Service 
- - Check 
+ - Getting PowerBI Tools via CLI 
  - New
